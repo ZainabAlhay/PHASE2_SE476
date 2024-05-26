@@ -13,7 +13,7 @@
 <header>
   <a href="UserMainPage.php"><img src="plogo.png" alt="Logo" class="logo"></a>
   <div class="name">Park Finder</div>
-  
+  <p></p>
   <div class="Right">
   <a href="UserMainPage.php"><img src="announcement.png" width="30px" height="30px" alt="announcement" class="announcement"></a>
     <div class="headM"><a href="Download.php">Download</a></div>
